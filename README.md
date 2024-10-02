@@ -1,3 +1,5 @@
+![Logo_Politecnico_Milano](https://github.com/user-attachments/assets/0eb369ff-22bf-421d-8774-0bc4ae1888fd)
+
 # Nucleomegaly Segmentation Project
 
 ## Project Overview
@@ -23,10 +25,15 @@ Boundary Detection and Metrics Calculation: Identify cell boundaries and compute
 ### Key Functions
 
 `imread()`: Loads the input image.
+
 `im2gray()`: Converts the image to grayscale.
+
 `bwboundaries()`: Detects boundaries of segmented objects.
+
 `regionprops()`: Computes properties of labeled regions, including area and eccentricity.
+
 `strel()`: Creates a structural element for morphological operations.
+
 `mean()`, `std()`: Calculate the mean and standard deviation of specified metrics.
 
 ## Results
