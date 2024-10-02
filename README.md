@@ -2,6 +2,8 @@
 
 # Nucleomegaly Segmentation Project
 
+![plasma](https://github.com/user-attachments/assets/fd5a7607-f6bc-44b6-bda4-5271fb74e256)
+
 ## Project Overview
 
 This project, developed for the *Laboratorio di Elaborazione di Immagini* course, focuses on segmenting and analyzing healthy cells versus those affected by nucleo-megaly. The goal is to distinguish between healthy blood cells and abnormal cells based on image processing techniques.
