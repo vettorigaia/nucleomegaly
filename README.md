@@ -46,6 +46,8 @@ The analysis resulted in:
 
 **Mean video intensity of healthy cells**: 10.9571; Standard deviation: 4.88858.
 
+![Schermata 2024-10-02 alle 20 05 50](https://github.com/user-attachments/assets/abbe6f1b-b6ab-4758-a05f-fbfeceda73de)
+
 ## Conclusions
 
 The project successfully distinguishes healthy cells from those affected by nucleo-megaly using image processing techniques. The results provide quantitative metrics for further analysis of cell characteristics, contributing to the understanding of this pathological condition.
